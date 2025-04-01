@@ -18,7 +18,7 @@ The ** Web Scraper** is a GUI-based application that allows users to scrape webs
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/advanced-web-scraper.git
+   git clone https://github.com/Riccc/Web-Scrappy.git
    ```
 2. Install the required dependencies:
    ```bash
